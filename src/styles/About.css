@@ -1,0 +1,14 @@
+.abouttop{
+    height: 100vh;
+
+}
+.about{
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100%;
+}
+.aboutbottom{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
